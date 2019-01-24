@@ -1,0 +1,100 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoTools&gt;">
+    <CLASSES>
+      <root url="file:///usr/lib/golang/src/strconv" />
+      <root url="file:///usr/lib/golang/src/crypto" />
+      <root url="file:///usr/lib/golang/src/sync" />
+      <root url="file:///usr/lib/golang/src/encoding" />
+      <root url="file:///usr/lib/golang/src/sort" />
+      <root url="file:///usr/lib/golang/src/archive" />
+      <root url="file:///usr/lib/golang/src/index" />
+      <root url="file:///usr/lib/golang/src/runtime" />
+      <root url="file:///usr/lib/golang/src/testing" />
+      <root url="file:///usr/lib/golang/src/io" />
+      <root url="file:///usr/lib/golang/src/compress" />
+      <root url="file:///usr/lib/golang/src/image" />
+      <root url="file:///usr/lib/golang/src/net" />
+      <root url="file:///usr/lib/golang/src/text" />
+      <root url="file:///usr/lib/golang/src/html" />
+      <root url="file:///usr/lib/golang/src/context" />
+      <root url="file:///usr/lib/golang/src/reflect" />
+      <root url="file:///usr/lib/golang/src/path" />
+      <root url="file:///usr/lib/golang/src/fmt" />
+      <root url="file:///usr/lib/golang/src/mime" />
+      <root url="file:///usr/lib/golang/src/time" />
+      <root url="file:///usr/lib/golang/src/bytes" />
+      <root url="file:///usr/lib/golang/src/container" />
+      <root url="file:///usr/lib/golang/src/plugin" />
+      <root url="file:///usr/lib/golang/src/go" />
+      <root url="file:///usr/lib/golang/src/builtin" />
+      <root url="file:///usr/lib/golang/src/os" />
+      <root url="file:///usr/lib/golang/src/debug" />
+      <root url="file:///usr/lib/golang/src/vendor" />
+      <root url="file:///usr/lib/golang/src/strings" />
+      <root url="file:///usr/lib/golang/src/database" />
+      <root url="file:///usr/lib/golang/src/unsafe" />
+      <root url="file:///usr/lib/golang/src/log" />
+      <root url="file:///usr/lib/golang/src/expvar" />
+      <root url="file:///usr/lib/golang/src/flag" />
+      <root url="file:///usr/lib/golang/src/internal" />
+      <root url="file:///usr/lib/golang/src/bufio" />
+      <root url="file:///usr/lib/golang/src/regexp" />
+      <root url="file:///usr/lib/golang/src/syscall" />
+      <root url="file:///usr/lib/golang/src/hash" />
+      <root url="file:///usr/lib/golang/src/errors" />
+      <root url="file:///usr/lib/golang/src/cmd" />
+      <root url="file:///usr/lib/golang/src/math" />
+      <root url="file:///usr/lib/golang/src/unicode" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/lib/golang/src/strconv" />
+      <root url="file:///usr/lib/golang/src/crypto" />
+      <root url="file:///usr/lib/golang/src/sync" />
+      <root url="file:///usr/lib/golang/src/encoding" />
+      <root url="file:///usr/lib/golang/src/sort" />
+      <root url="file:///usr/lib/golang/src/archive" />
+      <root url="file:///usr/lib/golang/src/index" />
+      <root url="file:///usr/lib/golang/src/runtime" />
+      <root url="file:///usr/lib/golang/src/testing" />
+      <root url="file:///usr/lib/golang/src/io" />
+      <root url="file:///usr/lib/golang/src/compress" />
+      <root url="file:///usr/lib/golang/src/image" />
+      <root url="file:///usr/lib/golang/src/net" />
+      <root url="file:///usr/lib/golang/src/text" />
+      <root url="file:///usr/lib/golang/src/html" />
+      <root url="file:///usr/lib/golang/src/context" />
+      <root url="file:///usr/lib/golang/src/reflect" />
+      <root url="file:///usr/lib/golang/src/path" />
+      <root url="file:///usr/lib/golang/src/fmt" />
+      <root url="file:///usr/lib/golang/src/mime" />
+      <root url="file:///usr/lib/golang/src/time" />
+      <root url="file:///usr/lib/golang/src/bytes" />
+      <root url="file:///usr/lib/golang/src/container" />
+      <root url="file:///usr/lib/golang/src/plugin" />
+      <root url="file:///usr/lib/golang/src/go" />
+      <root url="file:///usr/lib/golang/src/builtin" />
+      <root url="file:///usr/lib/golang/src/os" />
+      <root url="file:///usr/lib/golang/src/debug" />
+      <root url="file:///usr/lib/golang/src/vendor" />
+      <root url="file:///usr/lib/golang/src/strings" />
+      <root url="file:///usr/lib/golang/src/database" />
+      <root url="file:///usr/lib/golang/src/unsafe" />
+      <root url="file:///usr/lib/golang/src/log" />
+      <root url="file:///usr/lib/golang/src/expvar" />
+      <root url="file:///usr/lib/golang/src/flag" />
+      <root url="file:///usr/lib/golang/src/internal" />
+      <root url="file:///usr/lib/golang/src/bufio" />
+      <root url="file:///usr/lib/golang/src/regexp" />
+      <root url="file:///usr/lib/golang/src/syscall" />
+      <root url="file:///usr/lib/golang/src/hash" />
+      <root url="file:///usr/lib/golang/src/errors" />
+      <root url="file:///usr/lib/golang/src/cmd" />
+      <root url="file:///usr/lib/golang/src/math" />
+      <root url="file:///usr/lib/golang/src/unicode" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
